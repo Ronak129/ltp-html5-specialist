@@ -1,5 +1,3 @@
-# HTML5 Specialist
-# Basic Document Structure
 <!DOCTYPE html>
 <html>
     <head>
